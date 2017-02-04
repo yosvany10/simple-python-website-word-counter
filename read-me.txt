@@ -1,0 +1,5 @@
+This is going to count the number of occurences of words ignoring
+stop words and punctuation etc..
+Requires you to pass arguments, the first argument
+is the website and the second is the stopword file.
+Example stop word file in repo.
